@@ -27,12 +27,9 @@
 - 🛠️ **Deploying ML Apps** with Streamlit & Flask  
 - 📊 Creating **interactive dashboards** in Power BI & mastering Advanced Excel  
 
----
 
 #### 🎯 Career Aspiration  
 Eager to start my journey as a **Data Analyst / Junior Data Scientist**, contributing to **data-driven decisions** and impactful business solutions.  
-
----
 
 #### 📊 My Philosophy  
 ✨ “Data helps us learn from the past and shape the future.”  
