@@ -21,13 +21,13 @@ Eager to start my journey as a **Data Analyst / Junior Data Scientist**, contrib
 ---
 
 ## 📊 My Philosophy  
-✨ “Data helps us learn from the past and shape the future.”
+✨ “Data helps us learn from the past and shape the future.”  
 
 ---
 
 # 🛠️ Tech Stack & Tools  
 
-As a recent **Data Science graduate**, I’ve gained hands-on experience through academic projects and self-learning.  
+As a **Data Science graduate**, I’ve gained hands-on experience through academic projects and self-learning.  
 I’ve worked with tools for **data extraction, analysis, visualization, and machine learning**.  
 Here’s a snapshot of my technical toolkit:  
 
@@ -57,10 +57,10 @@ Here’s a snapshot of my technical toolkit:
 ---
 
 ## 📬 Let’s Connect!  
-“Glad you’re here! Take a look at my work, and I’d love to connect or collaborate.”
+Thanks for visiting my profile — feel free to explore my repositories and connect with me 🚀  
 
-- 💼 [LinkedIn](www.linkedin.com/in/moumita-majumder-143033202)  
-- ✉️ Email: majumdermoumita.ece@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moumita-majumder-143033202)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majundermoumita.ece@gmail.com)  
 
 
 
