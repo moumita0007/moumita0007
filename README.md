@@ -71,12 +71,18 @@ Here’s a snapshot of my technical toolkit:
 
 ## 📬 Let’s Connect!   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moumita-majumder-143033202)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majundermoumita.ece@gmail.com)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/moumita-majumder-143033202" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:majundermoumita.ece@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 
-Thanks for visiting my profile — feel free to explore my repositories and connect with me 🚀 
-
+“Glad you’re here! Take a look at my work, and I’d love to connect or collaborate.”
 ---
+
 
 
