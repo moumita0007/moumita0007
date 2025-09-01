@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Moumita Majumder  
+# 👋 Hi, I'm Moumita Majumder 
 
-🎓  📊 **Aspiring Data Analyst** | 🤖 **Machine Learning Enthusiast**  
+🎓 📊 **Aspiring Data Analyst** | 🤖 **Machine Learning Enthusiast**  
 
 ---
-# 🧠 About Me  
 
-🎓 I’m Moumita Majumder, a B.Tech graduate in Electronics & Communication Engineering, currently upskilling in Data Analytics and Data Science at Masai.
-With a strong foundation in programming and analytical thinking, I enjoy working with Python, SQL, Power BI, and Excel to explore data, extract insights, and create meaningful visualizations.
+# 🧠 About Me 
 
-My interests also extend to Machine Learning and Deep Learning, where I am learning to design predictive models.
+🎓 I’m a B.Tech graduate in Electronics & Communication Engineering, currently advancing my skills in Data Analytics and Data Science at Masai. My interests lie in exploring datasets, applying statistical methods, and leveraging machine learning to solve problems.
 
+I’m focused on developing expertise in Python, SQL, Power BI, and Excel, along with building models that translate raw data into practical solutions for real-world challenges.
 ---
 
 # 🎯 Career Aspiration  
-💡 To build a career as a Data Analyst / Data Scientist, leveraging my knowledge of analytics, statistics, and machine learning to turn data into actionable insights.
-🌱 Seeking opportunities to learn, collaborate, and contribute to impactful, data-driven solutions while growing professionally.
+
+📈 To build a career as a **Data Analyst / Data Scientist**, leveraging my knowledge of analytics, statistics, and machine learning to turn data into actionable insights.  
+📊 Seeking opportunities to learn, collaborate, and contribute to impactful, data-driven solutions while growing professionally.  
 
 ---
 
@@ -22,19 +22,20 @@ My interests also extend to Machine Learning and Deep Learning, where I am learn
 
 I’ve gained hands-on experience through academic projects and self-learning.  
 I’ve worked with tools for **data extraction, analysis, visualization, and machine learning**.  
-Here’s a snapshot of my technical toolkit:   
 
-🐍 Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn)
-🗄️ SQL (Data querying & database management)
-📊 Excel (Pivot Tables, Advanced Functions)
-📈 Power BI (Interactive dashboards & reports)
-📐 Statistics (Hypothesis Testing, ANOVA, Regression)
-🤖 Machine Learning (Regression, Classification, Clustering)
-🧠 Deep Learning
+Here’s a snapshot of my technical toolkit:  
+
+- 🐍 **Python** (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn)  
+- 🗄️ **SQL** (Data querying & database management)  
+- 📊 **Excel** (Pivot Tables, Advanced Functions)  
+- 📈 **Power BI** (Interactive dashboards & reports)  
+- 📐 **Statistics** (Hypothesis Testing, ANOVA, Regression)  
+- 🤖 **Machine Learning** (Regression, Classification, Clustering)  
+- 🧠 **Deep Learning**  
 
 ---
 
-## 📬 Let’s Connect!   
+## 📬 Let’s Connect!  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/moumita-majumder-143033202" target="_blank">
@@ -45,10 +46,9 @@ Here’s a snapshot of my technical toolkit:
   </a>
 </p>
 
-
-<p><small><i>“Glad you’re here! Take a look at my work, and I’d love to connect or collaborate.”</i></small></p>
-
 ---
+
+<p align="center"><sub><i>“Glad you’re here! Take a look at my work, and I’d love to connect or collaborate.”</i></sub></p>
 
 
 
