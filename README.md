@@ -1,3 +1,18 @@
+# Hi 👋, I'm Moumita Majumder  
+
+🎓 **Data Science Graduate** | 📊 **Aspiring Data Analyst** | 🤖 **Machine Learning Enthusiast**  
+
+---
+
+## 🚀 Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
 # 🧠 About Me  
 
 🎓 A **recent Data Science graduate** driven by curiosity and a passion for turning data into meaningful insights.  
