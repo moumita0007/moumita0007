@@ -2,7 +2,6 @@
 
 🎓 **Data Science Graduate** | 📊 **Aspiring Data Scientist** | 🤖 **Machine Learning Enthusiast**  
 
----
 
 ## 🚀 Tech Stack  
 
