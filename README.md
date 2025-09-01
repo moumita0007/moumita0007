@@ -20,9 +20,8 @@
 💡 I enjoy exploring datasets, discovering patterns, and building models that solve **real-world problems**.  
 🔍 My current focus is on advancing my skills in **Machine Learning, NLP, and deployment of data applications**.  
 
----
 
-## 🌱 What I’m Learning Now  
+#### 🌱 What I’m Learning Now  
 - 🧠 **Deep Learning** (CNNs, RNNs with TensorFlow & Keras)  
 - 🗣️ **NLP for Sentiment Analysis & Text Classification**  
 - 🛠️ **Deploying ML Apps** with Streamlit & Flask  
