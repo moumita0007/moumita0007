@@ -10,13 +10,11 @@ With a strong foundation in programming and analytical thinking, I enjoy working
 
 My interests also extend to Machine Learning and Deep Learning, where I am learning to design predictive models.
 
-
+---
 
 # 🎯 Career Aspiration  
-Eager to start my journey as a **Data Analyst / Junior Data Scientist**, contributing to **data-driven decisions** and impactful business solutions.  
-
-#### 📊 My Philosophy  
-“Data helps us learn from the past and shape the future.”  
+💡 To build a career as a Data Analyst / Data Scientist, leveraging my knowledge of analytics, statistics, and machine learning to turn data into actionable insights.
+🌱 Seeking opportunities to learn, collaborate, and contribute to impactful, data-driven solutions while growing professionally.
 
 ---
 
@@ -34,10 +32,7 @@ Here’s a snapshot of my technical toolkit:
 🤖 Machine Learning (Regression, Classification, Clustering)
 🧠 Deep Learning
 
-
-
 ---
-
 
 ## 📬 Let’s Connect!   
 
