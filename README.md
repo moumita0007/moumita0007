@@ -42,7 +42,6 @@ As a **Data Science graduate**, I’ve gained hands-on experience through academ
 I’ve worked with tools for **data extraction, analysis, visualization, and machine learning**.  
 Here’s a snapshot of my technical toolkit:  
 
----
 
 ## 📊 Data Analysis & Reporting  
 
@@ -50,7 +49,6 @@ Here’s a snapshot of my technical toolkit:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ## 🐍 Programming & Data Science  
 
