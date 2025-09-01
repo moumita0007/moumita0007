@@ -1,6 +1,6 @@
 # Hi 👋, I'm Moumita Majumder  
 
-🎓 **Data Science Graduate** | 📊 **Aspiring Data Analyst** | 🤖 **Machine Learning Enthusiast**  
+🎓 **Data Science Graduate** | 📊 **Aspiring Data Scientist** | 🤖 **Machine Learning Enthusiast**  
 
 ---
 
