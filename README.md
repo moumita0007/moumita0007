@@ -81,7 +81,7 @@ Here’s a snapshot of my technical toolkit:
 </p>
 
 
-“Glad you’re here! Take a look at my work, and I’d love to connect or collaborate.”
+Glad you’re here! Take a look at my work, and I’d love to connect or collaborate.
 ---
 
 
