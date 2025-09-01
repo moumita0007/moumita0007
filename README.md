@@ -82,6 +82,7 @@ Here’s a snapshot of my technical toolkit:
 
 
 <p align="center"><sub><i>“Glad you’re here! Take a look at my work, and I’d love to connect or collaborate.”</i></sub></p>
+
 ---
 
 
