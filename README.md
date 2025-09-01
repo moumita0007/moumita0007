@@ -9,6 +9,7 @@
 🎓 I’m a B.Tech graduate in Electronics & Communication Engineering, currently advancing my skills in Data Analytics and Data Science at Masai. My interests lie in exploring datasets, applying statistical methods, and leveraging machine learning to solve problems.
 
 I’m focused on developing expertise in Python, SQL, Power BI, and Excel, along with building models that translate raw data into practical solutions for real-world challenges.
+
 ---
 
 # 🎯 Career Aspiration  
